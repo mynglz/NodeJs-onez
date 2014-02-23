@@ -9,4 +9,4 @@ language: node_js
 node_js:
   - "0.10"
 before_script: "npm install mocha"
-after_success : git push git@heroku.com:https://github.com/mynglz/nodejs-onez.git
+after_success : git push git@heroku.com:github.com/mynglz/nodejs-onez.git
