@@ -37,7 +37,7 @@ console.log(query.c);
     }
     else
     {
-        response.write("I'm instant frame");
+        response.write("I'm instant frame for now");
         response.end();
     }
 
